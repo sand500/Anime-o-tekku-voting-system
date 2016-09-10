@@ -15,10 +15,12 @@ Format for storing votes
 - (Optional) Follow by name separated by space if the vote to keep track of who voted
 
 Example:
-> abdef Bob
->gedcj
->jhdib
->agjdb
+```
+abdef Bob
+gedcj
+jhdib
+agjdb
+```
 
 Run by entering `node anime.js`
 Winners will be displayed on console.
