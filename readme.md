@@ -23,5 +23,7 @@ agjdb
 ```
 
 Run by entering `node anime.js`
+
 Winners will be displayed on console.
+
 Vote data will be dumped into `anime_sum.csv` to be easily imported into Excel
